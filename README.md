@@ -62,11 +62,7 @@
 
 ## 🎬 Demo
 
-> 📸 **Screenshot placeholder** — add a screenshot of the Streamlit app here (`assets/demo-screenshot.png`)
-
-> 🎞️ **GIF placeholder** — add a short walkthrough GIF here (`assets/demo.gif`)
-
-> 🌐 **Live deployment placeholder** — add your deployed Streamlit Cloud / Docker link here
+[Images](https://github.com/Rohitranelab/Loan-Approval-Prediction/blob/main/Images/Loan%20Approval%20Prediction%20Interface.png)
 
 ---
 
@@ -112,6 +108,9 @@
 
 ```
 Loan-Approval-Prediction/
+│
+├── Images/
+│  └── Loan Approval Prediction Interface.png
 │
 ├── data/
 │   └── loan_approval.csv          # Raw dataset (2,000 records)
