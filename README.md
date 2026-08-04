@@ -62,7 +62,8 @@
 
 ## 🎬 Demo
 
-[Images](https://github.com/Rohitranelab/Loan-Approval-Prediction/blob/main/Images/Loan%20Approval%20Prediction%20Interface.png)
+![Loan Approval Prediction UI](https://github.com/Rohitranelab/Loan-Approval-Prediction/blob/main/Images/loan-approval-prediction-ui.png) 
+![Loan Approval Prediction Result](https://github.com/Rohitranelab/Loan-Approval-Prediction/blob/main/Images/loan-approval-prediction-result.png)
 
 ---
 
@@ -110,7 +111,8 @@
 Loan-Approval-Prediction/
 │
 ├── Images/
-│  └── Loan Approval Prediction Interface.png
+│  └── loan-approval-prediction-ui.png
+│  └── loan-approval-prediction-result.png
 │
 ├── data/
 │   └── loan_approval.csv          # Raw dataset (2,000 records)
