@@ -62,7 +62,10 @@
 
 ## 🎬 Demo
 
+After entering applicant details, the model predicts loan approval in real time:
 ![Loan Approval Prediction UI](https://github.com/Rohitranelab/Loan-Approval-Prediction/blob/main/Images/loan-approval-prediction-ui.png) 
+
+After entering applicant details and clicking **Predict**, the model returns an instant approval decision:
 ![Loan Approval Prediction Result](https://github.com/Rohitranelab/Loan-Approval-Prediction/blob/main/Images/loan-approval-prediction-result.png)
 
 ---
@@ -132,6 +135,7 @@ Loan-Approval-Prediction/
 ```
 
 **Folder breakdown**
+- **`Images/`** — images of the project result
 - **`data/`** — holds the source dataset used for training and evaluation.
 - **`model/`** — stores the final trained model and the fitted scaler, both serialized with `pickle` for use at inference time.
 - **`notebooks/`** — contains the full experimentation notebook: loading data, cleaning, encoding, scaling, training multiple models, and comparing results.
